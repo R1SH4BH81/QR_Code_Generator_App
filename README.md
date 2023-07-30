@@ -1,6 +1,24 @@
-# QR_Code_Generator_App
-this python is purely based on PIL , pillow , png and some part are included with cv for recognising and showing the message in qr code live on the screen.
-this app can create text based qr code , url based qr code , qr code to share wifi network access, qr code with an id card template , decode a qr code and barcode , 
-send files using qr code and most exicting features is that it can also create dynamic qr code both in color and in black  white . 
-follow me on instagram : instagram.com/rishabh_mishra81. Thank You :)
-                                                                     CREATED BY RISHABH MISHRA
+# QR Code Generator App
+
+
+
+## Description
+
+Welcome to the QR Code Generator App! This Python application is built using libraries such as PIL, pillow, png, and includes some parts of OpenCV for recognizing and displaying the message in QR codes live on the screen.
+
+With this app, you can:
+
+- Create text-based QR codes
+- Generate URL-based QR codes
+- Share Wi-Fi network access using QR codes
+- Create QR codes with an ID card template
+- Decode both QR codes and barcodes
+- Send files using QR codes
+
+One of the most exciting features is the ability to create dynamic QR codes, available in color and black & white.
+
+
+
+Thank you for checking out this app! If you have any feedback or suggestions, feel free to reach out.
+
+---
