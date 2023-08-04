@@ -15,7 +15,9 @@ With this app, you can:
 - Decode both QR codes and barcodes
 - Send files using QR codes
 
-One of the most exciting features is the ability to create dynamic QR codes, available in color and black & white.
+  sharing download link for qr generator (.exe file)
+
+One of the most exciting features is the ability to create dynamic QR codes, available in **color** and on any **gif**also!.
 
 
 
